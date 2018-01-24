@@ -11,3 +11,7 @@ Based on "Signature of mutational proccesses in human cancer", Alexandrov et al 
  - Kirill suggests SNPdb that calls known germline mutations. 
  - **CSIRO Training modules**: [Cancer genomics modules](https://bpa-csiro-workshops.github.io/)/somatic mutations/assessing somatic mutational signatures.
  - There's a `SomaticSignature` R library! (Roxane has her doubts on whether its results are actionable, though. Used in PeterMac on patient data for research, but maybe not in a clinical setting?)
+
+### See Also
+
+ - [A Simple Model-Based Approach to Inferring and Visualizing Cancer Mutation Signatures](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667891/)
