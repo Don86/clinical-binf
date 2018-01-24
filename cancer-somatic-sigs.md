@@ -1,6 +1,6 @@
 # Somatic Signatures in Cancer
 
-by Nick (@methylnick)
+Notes from the informal BINF Wednesday Meeting (24 Jan 2018), by Nick (@methylnick)
 
 Based on "Signature of mutational proccesses in human cancer", Alexandrov et al 2013.
 
