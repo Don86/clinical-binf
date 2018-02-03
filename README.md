@@ -2,6 +2,8 @@
 
 To the curious visitor: this is an archive of my notes, a haphazard accumulation of everything that I'm learning on my way to a bioinformatics/data science god-mode. 
 
+A goodish introduction to cancer genomics at the [NCI website](https://www.cancer.gov/about-nci/organization/ccg/cancer-genomics-overview).
+
 Topics should encompass:
 
  - full stack dev skills. These will probably not just be science-specific. After all, it pays to have a few orthogonal skill sets, or at least conditionally independent.
