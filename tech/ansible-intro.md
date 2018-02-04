@@ -11,7 +11,7 @@ TLDR: A sys-admin toolbox to administrate sys-admin tasks. Uses "playbooks" to d
  - Uses `ssh` for secure connections
  - Push-base architecture:
  
- <img src="./assets/ansible_agentless_architecture.png" width="650">
+ <img src="https://github.com/Don86/clinical-binf/blob/master/assets/ansible_agentless_architecture.png" width="650">
  
  - A playbook contains plays
  - A play contains tasks
